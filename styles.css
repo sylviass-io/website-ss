@@ -103,3 +103,7 @@ hr {
   background-color: var(--branding-color);
   transition: 0.7s;
 }
+.text-center {
+  padding-top: 20px;
+  color: black;
+}
