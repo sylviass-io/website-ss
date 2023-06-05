@@ -39,7 +39,7 @@ p {
 }
 
 img {
-  max-width: 300px !important;
+  max-width: 400px !important;
   border: solid 2px var(--branding-color);
   border-radius: 9%;
   image-rendering: crisp-edges;
@@ -82,6 +82,7 @@ hr {
   tr {
     display: flex;
     flex-wrap: wrap;
+    text-align: center;
   }
 }
 
