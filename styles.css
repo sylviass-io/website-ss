@@ -39,7 +39,7 @@ p {
 }
 
 img {
-  max-width: 480px !important;
+  max-width: 300px !important;
   border: solid 2px var(--branding-color);
   border-radius: 9%;
   image-rendering: crisp-edges;
